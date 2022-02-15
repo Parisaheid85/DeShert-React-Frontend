@@ -4,6 +4,8 @@ An attempt of this project is to design and customise your Tshirt by adding text
 
 Check out our[ : Demo](https://desshert.surge.sh/)
 
+https://ga-students.slack.com/archives/C031T2LHHB7/p1644911707007299
+
 ## REACT-CANVAS
 
 We have used javascript based open source application with React and Konva HTML5 canvas library. The goal is to have similar declarative markup as normal React and to have similar data-flow model.
