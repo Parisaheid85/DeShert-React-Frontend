@@ -18,6 +18,7 @@ React-konva supports all shapes, that Konva supports with the same names, and al
 - React-color
 - React-dropzone
 - React-konva
+- Surge
 
 ## Upcoming Upgradations:
 
