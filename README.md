@@ -26,7 +26,7 @@ React-konva supports all shapes, that Konva supports with the same names, and al
 Enable users to Sign up and make a new profile,
 Save button to allow users save their customised Tshirt,
 Adding payment section.
-Support rotation of texts and stickers.
+
 
 ## How to use:
 
